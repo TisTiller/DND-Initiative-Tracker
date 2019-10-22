@@ -1,4 +1,9 @@
-
+print("""
+    Initiative Tracker  Copyright (C) 2019  Tyler M. Rose
+    This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
+    This is free software, and you are welcome to redistribute it
+    under certain conditions; type `show c' for details.
+""")
 
 print("Format: NAME (No Spaces), Initiative\ne.g. Tyler 11")
 while True:
